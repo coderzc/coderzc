@@ -1,8 +1,6 @@
-
-
-<!--
 ### Hi 👋, I'm Coderzc
 
+<!--
 **coderzc/coderzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,14 +18,7 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=coderzc&theme=nord&radius=3" alt="GitHub activity"
     width="98.5%" />
 </div>
-
 -->
-
-<div align="center">
-<img src="https://metrics.lecoq.io/coderzc?template=classic&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai" alt="GitHub activity"
-    width="60%"/>
-</div>
-
 
 <div align="center">
     <span>
