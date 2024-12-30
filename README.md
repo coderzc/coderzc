@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=coderzc&theme=nord&radius=3" alt="GitHub activity"
     width="98.5%" />
 </div>
--->
+
 
 <div align="center">
     <span>
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
             src="https://github-readme-stats-coderzc.vercel.app/api?username=coderzc&count_private=true&show_icons=true&theme=material-palenight">
     </span>
 </div>
+-->
